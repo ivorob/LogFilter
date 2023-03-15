@@ -23,7 +23,7 @@ LogFilter.py logfile.log processName ' = "([^"]+)"'
 * Applyng regular expression to line: search + regex; 
 * In that case: 'processName = "([^"]+)"';
 * Using last regular expression group as key to count occurrences;
-* Printing occurrences from most popular to less popular;
+* Printing occurrences from most popular to less popular.
 
 You can use pipes to filter some results. For example:
 ```
